@@ -209,7 +209,7 @@ function Portfolio() {
           <p className="kicker reveal reveal-1">
             <span className="live-dot" /> AI VIDEO CREATOR · DIGITAL MARKETER
           </p>
-          <h1 className="display-title reveal reveal-2">
+          <h1 className="display-title reveal reveal-2" style={{ fontSize: 'clamp(2rem, 5.5vw, 4.2rem)' }}>
             UNSKIPABILITY
             <span>GUARANTEED.</span>
           </h1>
